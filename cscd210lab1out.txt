@@ -1,0 +1,34 @@
+ 
+  ----jGRASP exec: java cscd210lab1.CSCD210Lab1
+ Please enter your shoe size (no half sizes) 14
+ Please enter your birth year (yyyy) 1994
+ You shoe size is the nubers before the comaand your age (presuming you've had your bday for 2019) is the numbers after the comma 14,25
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab1.CSCD210Lab1
+ Please enter your shoe size (no half sizes) 14
+ Please enter your birth year (yyyy) 1994
+ You shoe size is the nubers before the comaand your age (presuming you've had your bday for 2019) is the numbers after the comma 14,25
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab1.CSCD210Lab1
+ Please enter your shoe size (no half sizes) 1985
+ Please enter your birth year (yyyy) 1985
+ You shoe size is the nubers before the comaand your age (presuming you've had your bday for 2019) is the numbers after the comma 19,85,34
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab1.CSCD210Lab1
+ Please enter your shoe size (no half sizes) 12.5
+ Exception in thread "main" java.util.InputMismatchException
+ 	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+ 	at java.base/java.util.Scanner.next(Scanner.java:1594)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+ 	at cscd210lab1.CSCD210Lab1.main(CSCD210Lab1.java:15)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
